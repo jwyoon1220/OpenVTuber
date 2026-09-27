@@ -47,3 +47,4 @@ bin/
 ### OpenVTuber ###
 run/model/cache/
 /run/
+/.idea/
